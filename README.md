@@ -49,8 +49,21 @@ if __name__ == "__main__":
 ```
 
 همچنین میتوانید با نصب برنامه گیت پروژه را در کامپیوتر خود کلون کنید.
-ابتدا مطمعن شوید برنامه git روی لپتاپ شما نصب است. ( [وبسایت رسمی](https://git-scm.com/downloads)  )
 
+ا1_بتدا مطمعن شوید برنامه git روی لپتاپ شما نصب است. ( [وبسایت رسمی](https://git-scm.com/downloads)  )
+2_ سپس محیط cmd کامپیوتر را باز کنید و دستورات زیر را بنویسید.
+```
+git clone https://github.com/arshiakia/EasyCalc.git
+```
+```
+cd EasyCalc
+```
+```
+git install requirements.txt
+```
+```
+python EasyCalc.py
+```
 
 توضیح ماشین حساب ( EasyCalc )
  
