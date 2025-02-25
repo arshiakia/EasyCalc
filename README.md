@@ -59,7 +59,7 @@ git clone https://github.com/arshiakia/EasyCalc.git
 cd EasyCalc
 ```
 ```
-git install requirements.txt
+pip install -r requirements.txt
 ```
 ```
 python EasyCalc.py
