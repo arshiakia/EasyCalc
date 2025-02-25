@@ -1,6 +1,4 @@
 NumPy
 SciPy
 Matplotlib
-Pandas
-SageMath
 Scikit-learn
