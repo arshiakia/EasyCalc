@@ -98,3 +98,9 @@ Key Features of the Calculator:
 4. Exit Capability: The program allows users to exit by entering the command "exit." This feature enhances the user experience and prevents confusion.
 
 
+
+<a href="https://github.com/arshiakia/EasyCalc/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=arshiakia/EasyCalc" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
