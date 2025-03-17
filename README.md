@@ -96,11 +96,3 @@ Key Features of the Calculator:
 3. Error Handling: One of the important features of this calculator is its error management. For example, if a user attempts to divide by zero, the program displays an appropriate message to the user.
 
 4. Exit Capability: The program allows users to exit by entering the command "exit." This feature enhances the user experience and prevents confusion.
-
-
-
-<a href="https://github.com/arshiakia/EasyCalc/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=arshiakia/EasyCalc" />
-</a>
-
-Made with [contrib.rocks](https://contrib.rocks).
